@@ -1,0 +1,11 @@
+{
+  "allowMovement": {
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "com.notium.bettercapes.screen.CapeSelectScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true
+  },
+  "hideBackground": {}
+}

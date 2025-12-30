@@ -1,0 +1,16 @@
+{
+  "showSortButton": false,
+  "showTooltips": true,
+  "separateButton": true,
+  "sortPlayerInventory": false,
+  "sortType": "NAME",
+  "enableDoubleClickSort": true,
+  "sortHighlightedItem": true,
+  "scrollBehaviour": "FREE",
+  "customCompatibilityListDownloadUrl": "",
+  "preventSortForScreens": [],
+  "hideButtonsForScreens": [
+    "visualworkbench:crafting",
+    "easyanvils:repair"
+  ]
+}

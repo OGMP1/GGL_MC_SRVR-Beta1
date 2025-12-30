@@ -1,0 +1,31 @@
+{
+  "totalPatsCounter": {
+    "pats": 301
+  },
+  "entities": {
+    "uselessreptile:river_pikehorn": {
+      "pats": 15
+    },
+    "snuffles:snuffle": {
+      "pats": 96
+    },
+    "minecraft:zombie": {
+      "pats": 7
+    },
+    "minecraft:wolf": {
+      "pats": 88
+    },
+    "ydms_redpanda:redpanda": {
+      "pats": 25
+    },
+    "minecraft:bee": {
+      "pats": 34
+    },
+    "untitledduckmod:duck": {
+      "pats": 9
+    },
+    "minecraft:shulker": {
+      "pats": 19
+    }
+  }
+}
